@@ -2,7 +2,7 @@
 import random
 number = random.randint(-10, 10)
 
-number = "n"
+number == n
 
 if n > 0:
     print(f"{number} is zero")
