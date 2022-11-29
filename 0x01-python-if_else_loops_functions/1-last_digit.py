@@ -3,7 +3,8 @@
 import random
 
 number = random.randint(-10000, 10000)
-digit = abs(number) % 10
+
+digit = number[0:-1]
 
 if number < 0:
 
