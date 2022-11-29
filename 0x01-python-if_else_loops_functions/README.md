@@ -5,10 +5,6 @@ In this project, I began utilizing conditionals and loops in Python by using `if
 `for` loops. I practiced writing my own Python functions while learning about scope of
 variables, tracebacks, and arithmetic operators.
 
-## Tests :heavy_check_mark:
-
-* [tests](./tests): Folder of test files. Provided by ALX School.
-
 ## Function Prototypes :floppy_disk:
 
 Prototypes for functions written in this project:
@@ -36,7 +32,6 @@ Prototypes for functions written in this project:
     * If the number is 0: `is zero`
     * If the number is less than 0: `is negative`
     * Followed by a new line.
-  * Completion of [this source code](https://github.com/holbertonschool/0x01.py/blob/master/0-positive_or_negative_py).
 
 * **1. The last digit**
   * [1-last_digit.py](./1-last_digit.py): Python program that assigns a random signed number
@@ -46,7 +41,7 @@ Prototypes for functions written in this project:
     * If the number is 0: `and is 0`
     * If the number is less than 6 and not 0: `and is less than 6 and not 0`
     * Followed by a new line.
-  * Completion of [this source code](https://github.com/holbertonschool/0x01.py/blob/master/1-last_digit_py).
+
 
 * **2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
   * [2-print_alphabet.py](./2-print_alphabet.py): Python program that prints the alphabet
