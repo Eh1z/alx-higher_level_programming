@@ -1,4 +1,0 @@
-#!/bin/bash
-git add .
-git commit -m 'I created a git push script for this python sets and dictionaries project and it pushed this for me'
-git push
