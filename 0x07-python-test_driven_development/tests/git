@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'I created a git push script for the test driven development project and it pushed this for me'
+git commit -m 'I created a git push script for my Python Tests and it pushed this for me'
 git push
