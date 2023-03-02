@@ -4,10 +4,10 @@ clear
 
 read -p "Enter Your Commit Message Chosen One:  " my_message
 
-echo "${my_message}"
-echo '${my_message}'
+echo "Now Processing . . ."
+
 git add .
 git commit -m "${my_message}"
 git push 
 
-echo "Your changes have been uploaded Master Godsent"
+echo ". . . . . . Your changes have been uploaded Master Godsent. . . . . ."
