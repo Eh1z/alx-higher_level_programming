@@ -1,5 +1,8 @@
 #!/bin/bash
- read -p "Enter Your Commit Message Great Sir:  " my_message
+
+clear
+
+read -p "Enter Your Commit Message Chosen One:  " my_message
 
 
 git add .
