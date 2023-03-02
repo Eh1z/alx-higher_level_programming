@@ -1,0 +1,10 @@
+#!/bin/bash
+
+read -p "Enter Your Commit Message Great Sir" my_message
+
+
+git add .
+git commit -m '${my_var}'
+git push 
+
+echo "Your changes have been uploaded Master Godsent"
