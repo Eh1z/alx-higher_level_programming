@@ -2,5 +2,5 @@
 
 //Script that prints 3 lines of text
 
-let myVar = "C is fun" \n "Python is cool" \n "JavaScript is amazing";
+const myVar = "C is fun\nPython is cool\nJavaScript is amazing";
 console.log(myVar);
