@@ -12,4 +12,4 @@ git add .
 git commit -m "${my_message}"
 git push 
 
-echo \n". . . . . . Your changes have been uploaded Master Godsent. . . . . ."
+echo ". . . . . . Your changes have been uploaded Master Godsent. . . . . ."
