@@ -2,14 +2,15 @@
 
 clear
 
-read -p "Enter Your Commit Message Chosen One:  " my_message
+read -p "Enter your commit message: " my_message
 
-echo ". . . Giving User permission to execute File . . ."
+echo ". . . Giving user permission to execute files . . . "
 chmod u+x *
-echo ". . . . Now Uploading Changes . . . ."
 
+echo ". . . Now uploading Changes . . ."
 git add .
 git commit -m "${my_message}"
-git push 
+git push
 
-echo ". . . . . . Your changes have been uploaded Master Godsent. . . . . ."
+
+echo ". . . Your changes have been pushed successfully . . ."
